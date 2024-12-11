@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharisseCodes
 - 👀 I’m interested in Web Design.
-- 🌱 I’m currently learning web frameworks like Vue and React.
+- 🌱 I’m currently developing my porfolio with React.
 - 💞️ I’m looking to collaborate on developing my web apps.
 - 📫 Check my LinkedIn https://www.linkedin.com/in/rafaelcharisse/
 
